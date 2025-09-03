@@ -1,0 +1,47 @@
+.Title{
+    text-align: center;
+    color: purple;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-family: serif;
+}
+.timeline{
+    margin-top: 50px;
+    margin-left: 250px;
+}
+.biography{
+    display: block;
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
+.biography>h2{
+    color: purple;
+    font-family: serif;
+}
+.biography>p{
+    color: blue;
+    font-family: sans-serif;
+}
+.characters{
+    margin-top: 50px;
+   
+}
+.characters>h2{
+    margin-bottom: 20px;
+     text-align: center;
+    font-family: serif;
+     color: purple;
+}
+.characters>ul{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+justify-content: center;
+align-items: center;
+}
+li{
+    color: blue;
+    font-family: sans-serif;
+}
